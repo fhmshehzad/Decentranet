@@ -2,14 +2,14 @@
 ## Using IPFS and Blockchain to create a Decentralized Internet
 ##### Decentranet is a combination of three technologies. IPFS, Blockchain and Encryption. With Decentranet we aim to secure data from wireless sensors by creating a network that is immune to attacks that exploit their single point of failure and from any other external threats. Any data uploaded on Decentranet will be encrypted and then distributed among all the nodes. This data will be identified by its cryptographic hash value. That means any modification or change made to the uploaded data will not go unnoticed. In this way we can make wireless sensor networks a much more reliable way of monitoring or collecting data. This project is beneficial for every industry that uses sensors or generates some data such as the military, industrial, agricultural, financial and even the medical sector.
 
-#### Goals and Objectives:
+### Goals and Objectives:
 The main goals of the project are:
 
 • To successfully create a decentralized internet that could have a number of applications today and in the upcoming future.
 
 • To create a wireless network that is immune to attacks that exploit their single point of failure and to secure the data from any other external threats.
 
-#### Areas of Appication:
+### Areas of Appication:
 
 Decentranet is a service with countless applications. Some of these are listed below:
 
@@ -19,9 +19,10 @@ Decentranet is a service with countless applications. Some of these are listed b
 
 • Decentralized Storage for Medical Records: Hospitals store their patient records locally. This is not safe as the data can be lost or it could lose its credibility. One solution for this is to move to cloud storage. That too is not completely safe and comes with its own threats. Decentranet is a good solution to this problem. Using decentranet, medical records of patients can be stored securely on a decentralized network that will keep them confidential and protect their integrity.
 
-#### Tools and Technologies:
+### Tools and Technologies:
 
 • IPFS. InterPlanetary File System is a file storing and sharing system over a distributed network of peers called nodes. It relies on cryptographic hashes that can be stored on a blockchain. 
+
 • Ethereum Virtual Machine (EVM). EVM is used to create and execute smart contracts. It does so by completely isolating the code from the networks or processes on the host machine. Execution of each instruction has a cost that the system keeps track of. This is called gas and it is calculated in terms of gwei (Gig wei). 1 gwei = 0.000000001 ETH. Amount of gas used increases with the increase in complexity of computations.
 
 • GoLand. GoLand is an IDE by JetBrains for Golang and extended support for JavaScript. It allows the user to write and debug code without any additional plugins and the editor is very user friendly when it comes to reading, writing or testing the code. 
@@ -44,7 +45,7 @@ Decentranet is a service with countless applications. Some of these are listed b
 
 • We will be using the Ethereum private chain because it is very expensive to store data on the public Ethereum blockchain. According to Ethereum’s yellow paper it is approximately 20,0000 gas for 256bit/8 bytes (1word). Based on 02/28/2018 gas prices of 4 gwei/gas. 20,000 gas per Transaction of 8 bytes x 4 gwei/gas = 80,000 gwei for 8 bytes. 80,000 gwei for 8 bytes. x 1000 bytes/8 = 10,000,000 gwei/kB = 0.01 Ether. 0.01 Ether/kB x 1000kB = 10 Ether to store a 1Mb at $860/ether = $8600.00. Therefore it would cost $8,600,000.00 to store a 1 GB file on the Ethereum public blockchain.
 
-#### References:
+### References:
 
 • Li, W., Wang, Y., & Li, J. (2022). Enhancing blockchain-based filtration mechanism via IPFS for collaborative intrusion detection in IoT networks. Journal of Systems Architecture, 102510.Kumar, R., & Tripathi, R. IEEE. 
 

@@ -9,7 +9,7 @@ The main goals of the project are:
 
 • To create a wireless network that is immune to attacks that exploit their single point of failure and to secure the data from any other external threats.
 
-### Areas of Appication:
+### Areas of Application:
 
 Decentranet is a service with countless applications. Some of these are listed below:
 

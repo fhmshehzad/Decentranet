@@ -16,7 +16,10 @@ Path of the secret key file: node1/keystore/UTC--2022-10-12T19-06-11.792200364Z-
 
 geth --identity "Decentra" --genesis decentra.json --rpc --rpcport "8000" --rpccorsdomain "*" --datadir "." --port "30303" --nodiscover --ipcapi "admin,db,eth,debug,miner,net,shh,txpool,personal,web3" --rpcapi "db,eth,net,web3" --autodag --networkid 6969 --nat "any" console
 
+
 __________________________________________________________
+
+
 
 Genesis Block
 STEP 1

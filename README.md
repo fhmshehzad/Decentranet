@@ -45,16 +45,6 @@ Decentranet is a service with countless applications. Some of these are listed b
 
 • We will be using the Ethereum private chain because it is very expensive to store data on the public Ethereum blockchain. According to Ethereum’s yellow paper it is approximately 20,0000 gas for 256bit/8 bytes (1word). Based on 02/28/2018 gas prices of 4 gwei/gas. 20,000 gas per Transaction of 8 bytes x 4 gwei/gas = 80,000 gwei for 8 bytes. 80,000 gwei for 8 bytes. x 1000 bytes/8 = 10,000,000 gwei/kB = 0.01 Ether. 0.01 Ether/kB x 1000kB = 10 Ether to store a 1Mb at $860/ether = $8600.00. Therefore it would cost $8,600,000.00 to store a 1 GB file on the Ethereum public blockchain.
 
-### References:
-
-• Li, W., Wang, Y., & Li, J. (2022). Enhancing blockchain-based filtration mechanism via IPFS for collaborative intrusion detection in IoT networks. Journal of Systems Architecture, 102510.Kumar, R., & Tripathi, R. IEEE. 
-
-• Zareen, H., Awan, S., E Sajid, M. B., Baig, S. M., Faisal, M., & Javaid, N. (2021, July). Blockchain and IPFS based service model for the internet of things. In Conference on Complex, Intelligent, and Software Intensive Systems (pp. 259-270). Springer, Cham.
-
-• Ramasamy, L. K., KP, F. K., Imoize, A. L., Ogbebor, J. O., Kadry, S., & Rho, S. (2021). Blockchain-Based Wireless Sensor Networks for Malicious Node Detection: A Survey. IEEE Access, 9, 128765-128785.
-
-• Kumar, R., & Tripathi, R. (2019, November). Implementation of distributed file storage and access framework using IPFS and blockchain. In 2019 Fifth International Conference on Image Information Processing (ICIIP) (pp. 246-251). IEEE.
-
 ## https://drive.google.com/file/d/1bQxH2NFM2fNhgc6dAsyKPVCNOAEj7ocu/view?usp=sharing
 
 ## https://drive.google.com/file/d/1Dh0heA0ERAGdRsReTPb0wW4jUTJcg7GH/view?usp=sharing
